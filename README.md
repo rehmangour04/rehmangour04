@@ -14,7 +14,7 @@ Hellllo! I am Rehman Gour a Web Developer 💻, keen learner & student😑
 
 I am a 2nd Year IT undergraduate from College of Engineering Roorkee(❗ROORKEE). A Web Developerl 💻  and a Tech Enthusiast,  who is obsessed with the idea of improving himself and wants a platform to grow 🚀 and accelerate🥇🏆 
 
-### Fun fact: My smartness 💡 lies in my laziness 😴 am I really Smart? 🙄🤨
+ Fun fact: My smartness 💡 lies in my laziness 😴 am I really Smart? 🙄🤨
 
 ☝One 👌more 😂Fun 😲fact: I once answered the world’s oldest question with a single line of JavaScript
 
