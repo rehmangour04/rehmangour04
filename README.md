@@ -1,8 +1,11 @@
-## Hi There, I am Rehman Gour 💻
+## Hi There🤝
 
 ### 👦 About me:
-- Engineering Student
-- Full Stack Developer in Future
+- Let's Connect, Hey Wait! Who am I ? 🤨🤔
+Hellllo! I am Rehman Gour a Web Developer 💻, keen learner & student😑
+
+I am a 2nd Year IT undergraduate from College of Engineering Roorkee(❗ROORKEE). A Web Developerl 💻  and a Tech Enthusiast,  who is obsessed with the idea of improving himself and wants a platform to grow 🚀 and accelerate🥇🏆 
+- Working Hard😂😎
 
 ### 👩‍💻 My Tech Stack:
 
