@@ -1,26 +1,15 @@
 ## Hi There🤝
 
-### console.log("Hello World!");
-
-### 🤝 Hello World!
-
-###  Working Hard😂😎
-
-
-
 ### - Let's Connect, Hey Wait! Who am I ? 🤨🤔
 
 Hellllo! I am Rehman Gour a Web Developer 💻, keen learner & student😑
 
-I am a 2nd Year IT undergraduate from College of Engineering Roorkee(❗ROORKEE). A Web Developerl 💻  and a Tech Enthusiast,  who is obsessed with the idea of improving himself and wants a platform to grow 🚀 and accelerate🥇🏆 
+I am a 3rd Year IT undergraduate from College of Engineering Roorkee(❗ROORKEE). A Web Developerl �  and a Tech Enthusiast,  who is obsessed with the idea of improving himself and wants a platform to grow � and accelerate�
 
  Fun fact: My smartness 💡 lies in my laziness 😴 am I really Smart? 🙄🤨
 
-☝One 👌more 😂Fun 😲fact: I once answered the world’s oldest question with a single line of JavaScript
 
-Which came first: the chicken or the egg?
 
-console.log(["🥚", "🐣", "🐥", "🐔"].sort());
 
 
 
