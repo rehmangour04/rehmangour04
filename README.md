@@ -2,9 +2,9 @@
 
 ### - Let's Connect, Hey Wait! Who am I ?
 
-Hellllo! I am Rehman Gour a Web Developer 💻, keen learner & student
+Hellllo! I am Ataur Rehman Gour a MERN-Stack Developer 💻, keen learner & student
 
-I am a 3rd Year IT undergraduate from College of Engineering Roorkee(❗ROORKEE). A Web Developerl   and a Tech Enthusiast,  who is obsessed with the idea of improving himself and wants a platform to grow  and accelerate
+I am a Final Year IT undergraduate from College of Engineering Roorkee(❗ROORKEE). A Web Developerl   and a Tech Enthusiast,  who is obsessed with the idea of improving himself and wants a platform to grow  and accelerate
 
  Fun fact: My smartness lies in my laziness am I really Smart?
 
